@@ -1,0 +1,314 @@
+#EXTM3U
+# Lista optimizada para SS IPTV
+# Comparada a partir de lista.m3u + lista1.m3u + lista2.m3u + lista3.m3u + lista4.m3u
+# Mexico directo: prioridad HTTPS/HLS sin proxy
+# Paga: un solo enlace por variante; SD/HD colocados juntos
+# Sin logos ni EPG para reducir carga en la TV
+
+# ===== 01 MEXICO DIRECTO / MAYOR PRIORIDAD =====
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Las Estrellas
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Azteca 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Canal Once Mexico
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",8 NTV
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Canal 10 Cancun
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Canal 12.1 Colima
+https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Canal 15 Fresnillo
+https://60ed5b6d0df78.streamlock.net:1936/lsac/ngrp:lsac_all/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Canal 28 Nuevo Leon
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Canal 4 Saltillo
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Canal 66 El Canal de las Noticias
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Jalisco TV
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Mexiquense TV
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",MVM Noticias Oaxaca
+https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Presumiendo Mexico
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",RCG 1 Saltillo
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",RCG 2 Saltillo
+https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",RCG 3 Saltillo
+https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",RTQ Queretaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",SIZART Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Telemax Hermosillo
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Teleplay
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Tlaxcala TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Transmedia TV Morelia
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",TRC TV Campeche
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",TV4 Mexico
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",TV4 Cultura
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",TV4 Deportes
+https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",TVP Culiacan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",TVP Obregon
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",UMTV
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="01 MEXICO DIRECTO",Alcance TV
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
+
+# ===== 02 MEXICO IMPORTANTES / PROXY =====
+#EXTINF:-1 group-title="02 MEXICO PROXY",Canal 5 Mexico
+http://tecnotv.club/gfhr/phpcode/ssiptv.php?c=a067&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="02 MEXICO PROXY",Imagen TV
+http://tecnotv.club/gfhr/phpcode/runtime.php?c=6149
+
+# ===== 03 PAGA ENTRETENIMIENTO =====
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",A&E
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0c3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",A&E HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a058&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",AMC
+http://tecnotv.club/gfhr/phpcode/lista3.php?c=a0jh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",AMC HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a069&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",AXN
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0fe&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",AXN HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Adult Swim
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a06r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",E! Entertainment TV
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a019&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",FX
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0fg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",FX HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a016&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Lifetime
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a0c0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Pasiones HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Star Channel HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a07t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Tlnovelas
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00k&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Telemundo
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a01l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Studio Universal
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a041&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Studio Universal HD
+http://tecnotv.club/gfhr/phpcode/lista3.php?c=a0j3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",UNIVERSAL CHANNEL HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Warner
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a03e&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="03 PAGA ENTRETENIMIENTO",Warner TV HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a04d&token=tecnotokenplustv230516F&f=.m3u8
+
+# ===== 04 PAGA CINE Y SERIES =====
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Cinecanal
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Cinecanal HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a06j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Cinemax
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a01q&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Cinemax HD
+http://tecnotv.club/gfhr/phpcode/lista3.php?c=a0eb&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",De Pelicula
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a080&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Golden
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Golden HD
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0cm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Golden Edge
+http://tecnotv.club/gfhr/phpcode/lista3.php?c=a0ej&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Space HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",TCM
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",TNT
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a01v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",TNT HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a060&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",TNT Novelas
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a045&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",TNT Novelas HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a07d&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",TNT Series
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a01x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",TNT Series HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a022&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",HBO
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0gx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",HBO 2
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",HBO HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a049&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",HBO Family
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a055&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",HBO Family HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a02s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",HBO POP HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a01n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",HBO Plus
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0d4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",HBO Xtreme HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Sony
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0fh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Sony HD
+http://tecnotv.club/gfhr/phpcode/lista3.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="04 PAGA CINE Y SERIES",Sony Movies
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0el&token=tecnotokenplustv230516F&f=.m3u8
+
+# ===== 05 PAGA DOCUMENTALES =====
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Animal Planet
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Animal Planet HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a07x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Discovery Channel
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Discovery Channel HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Discovery Kids
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0ch&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Discovery Kids HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Discovery Science
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Discovery Theater HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a04e&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Discovery Turbo
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a01v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Discovery World HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",History Channel
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0cj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",History Channel HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",HomeandHealth
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a059&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Home & Health HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00u&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",ID HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a04h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",National Geographic
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a05n&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Nat Geo HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a07y&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",HGTV
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05p&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",TLC
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",El Gourmet
+http://tecnotv.club/gfhr/phpcode/lista3.php?c=a0hu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",El Gourmet HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a0as&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="05 PAGA DOCUMENTALES",Food Network
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00j&token=tecnotokenplustv230516F&f=.m3u8
+
+# ===== 06 PAGA INFANTIL =====
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Cartoon Network
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a030&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Cartoon Network HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Cartoonito
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Disney Channel
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05y&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Disney Channel HD
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0i3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Disney Jr.
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Nick Jr.
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a01u&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Nickelodeon HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Tooncast
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a06i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="06 PAGA INFANTIL",Baby TV
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a08a&token=tecnotokenplustv230516F&f=.m3u8
+
+# ===== 07 PAGA DEPORTES =====
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 2
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0cw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 2 HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 3
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a04u&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 3 HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a061&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 4
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a046&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 4 HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a07f&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 5
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0g0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 5 HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a082&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 6
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0gm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 6 HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a062&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 7
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a0ci&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",ESPN 7 HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a01j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="07 PAGA DEPORTES",Fox Sports 2
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a03n&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="07 PAGA DEPORTES",Fox Sports 3
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a03o&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="07 PAGA DEPORTES",TNT Sports Premium SD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8
+
+# ===== 08 PAGA MUSICA =====
+#EXTINF:-1 group-title="08 PAGA MUSICA",MTV
+http://tecnotv.club/gfhr/phpcode/lista2.php?c=a02x&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 group-title="08 PAGA MUSICA",MTV HD
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a00i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="08 PAGA MUSICA",Bandamax
+http://tecnotv.club/gfhr/phpcode/lista1.php?c=a02i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="08 PAGA MUSICA",HTV
+http://tecnotv.club/gfhr/phpcode/lista4.php?c=a0ax&token=tecnotokenplustv230516F&f=.m3u8
